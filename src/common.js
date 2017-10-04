@@ -41,9 +41,10 @@ function badge (tabId) {
   });
 }
 
-function logger () {
-  //console.log.apply(console.log, arguments);
-}
+// function logger () {
+//   //console.log.apply(console.log, arguments);
+// }
+const logger = console.log
 
 function observe (d) {
   let {pathname, hostname} = new URL(d.url);

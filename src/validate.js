@@ -120,6 +120,8 @@ var validate = (function (paths) {
   'jquery/2.1.4/jquery.min.js.dec',
   'jquery/2.2.3/jquery.min.js.dec',
   'jquery/3.1.1/jquery.min.js.dec',
+  'jquery/3.2.0/jquery.min.js.dec',
+  'jquery/3.2.1/jquery.min.js.dec',
   'jqueryui/1.10.4/jquery-ui.min.js.dec',
   'jqueryui/1.11.0/jquery-ui.min.js.dec',
   'jqueryui/1.11.1/jquery-ui.min.js.dec',
